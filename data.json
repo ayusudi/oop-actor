@@ -1,0 +1,25 @@
+[
+    {
+        "firstName": "ayu",
+        "lastName": "sudi",
+        "gender": "F",
+        "favoriteNumber": 8,
+        "job": "Actor",
+        "phoneNumber" : "56789232111",
+        "achievements": [
+            { "name" : "Grammy", "year" : 2000 }
+        ]
+    },
+    {
+        "firstName": "luwy",
+        "lastName": "sudi",
+        "gender": "F",
+        "favoriteNumber": 10,
+        "job": "Singer",
+        "phoneNumber" : "56789232111",
+        "achievements": [
+            { "name" : "Grammy", "year" : 2000 }
+        ]
+    }
+    
+]
